@@ -22,3 +22,4 @@ To utilize this code, clone the repository and execute `main.m` in MATLAB. You c
 ## Plug-in
 We build and freely provide a plug-in of the WDF-based MXR Phase 90. Both the Windows (VST) and MacOS (AU, VST) installers can be downloaded from this [link](https://polimi365-my.sharepoint.com/:f:/g/personal/10454432_polimi_it/EhHosFs0sgtAslKdPNava3UByncijOgON74aRMW7okpHSw?e=q9Ynss). The plug-in is build using the [JUCE framework](https://juce.com).
 
+![Plug-in](/logic.png "Use of the MXR Phase 90 Plug-in in Logic Pro X.")
